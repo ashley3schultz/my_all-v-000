@@ -11,4 +11,5 @@ def my_all?(collection)
     FALSE
   else
     TRUE
+  end
 end
